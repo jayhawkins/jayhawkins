@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayhawkins
 - 👀 I’m interested in Blockchain, Crypto, Full-Stack Development and Music!
-- 🌱 I’m currently learning blockchain development with Moralis with Python (FastAPI) for a custom backend
+- 🌱 I’m currently learning blockchain development with Moralis and Python (FastAPI) for a custom backend
 - 💞️ I’m looking to collaborate on developing blockchain systems utiliing Smart Contracts
 - 📫 How to reach me jhawkins@dynamasys.com
 
